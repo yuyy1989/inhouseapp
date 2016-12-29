@@ -19,7 +19,7 @@
                                 <key>bundle-identifier</key>
                                 <string>com.raytime.inhouse.RayLEDv2UE</string>
                                 <key>bundle-version</key>
-                                <string>0.9(0.9.0)</string>
+                                <string>1.0.3(30)</string>
                                 <key>kind</key>
                                 <string>software</string>
                                 <key>title</key>
